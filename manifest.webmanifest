@@ -1,0 +1,19 @@
+{
+  "name": "Openway: No matric. Still a future.",
+  "short_name": "Openway",
+  "description": "Find legitimate work, prepare to apply and build a better future. A PixelProTech Solutions product.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07070a",
+  "theme_color": "#07070a",
+  "lang": "en-ZA",
+  "categories": ["business", "education", "productivity"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
